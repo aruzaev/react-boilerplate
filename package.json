@@ -4,7 +4,7 @@
   "description": "Supercharge your React development workflow with the React Boilerplate VSCode Extension! ",
   "icon": "images/React_Logo_SVG.svg.png",
   "publisher": "ArtemRuzaev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.86.0"
   },

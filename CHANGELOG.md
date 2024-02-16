@@ -4,6 +4,9 @@ All notable changes to the "react-boilerplate" extension will be documented in t
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [v0.0.2-alpha]
 
-- Initial release
+- Added extension.js
+- Added automatic boilerplate
+- Added command prompted boilerplate
+- Added status bar
