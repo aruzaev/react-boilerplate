@@ -2,6 +2,8 @@
   "name": "react-boilerplate",
   "displayName": "React Boilerplate",
   "description": "Supercharge your React development workflow with the React Boilerplate VSCode Extension! ",
+  "icon": "images/React_Logo_SVG.svg.png",
+  "publisher": "ArtemRuzaev",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.86.0"
@@ -9,12 +11,16 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onLanguage:javascript",
+    "workspaceContains:**/src/**/*.js",
+    "workspaceContains:node_modules/react"
+  ],
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "react-boilerplate.helloWorld",
-      "title": "Hello World"
+      "command": "react-boilerplate.Insert: Boilerplate",
+      "title": "Insert boilerplate"
     }]
   },
   "scripts": {

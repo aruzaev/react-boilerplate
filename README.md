@@ -1,66 +1,24 @@
-# react-boilerplate README
+![React](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png)
 
-This is the README for your extension "react-boilerplate". After writing up a brief description, we recommend including the following sections.
+# React Boilerplate VSCode Extension
 
-## Features
+Supercharge your React development workflow with the React Boilerplate VSCode Extension! Designed for developers by developers, this extension offers a comprehensive collection of customizable React boilerplates, enabling you to kickstart your projects with ease and efficiency.
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+## Key Features
 
-For example if there is an image subfolder under your extension project workspace:
+- **One-Click Boilerplates**: Access a wide array of React boilerplates with a single click. From simple component templates to full-fledged application frameworks, jumpstart your project without the hassle of setup and configuration.
 
-\!\[feature X\]\(images/feature-x.png\)
+- **Seamless Integration**: Works seamlessly within VSCode, allowing you to insert boilerplates directly into your project without disrupting your workflow. Enjoy a smooth development experience with everything you need at your fingertips.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+- **Up-to-Date Practices**: Stay ahead of the curve with boilerplates that incorporate the latest React features and best practices. Our templates are regularly updated, ensuring you're always coding with the most efficient and effective methods.
 
-## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Getting Started
 
-## Extension Settings
+1. Install the React Boilerplate VSCode Extension from the Visual Studio Code Marketplace.
+2. Open your project and navigate to the location where you want to insert a boilerplate.
+3. Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac) to open the command palette.
+4. Type `Insert: Boilerplate` 
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+Whether you're a seasoned developer looking to streamline your workflow or a newcomer eager to dive into React development, our extension is designed to enhance productivity and creativity. By reducing the initial setup and configuration time, you can focus on what truly matters: building amazing, high-quality React applications.
 
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
-# react-boilerplate
