@@ -58,7 +58,7 @@ function insertBoilerplateCode(uri) {
 
   const boilerplate = `import React from 'react';
   
-  function ${componentName}() {
+  const ${componentName} = () =>  {
 	return (
 	  <div>
 	  </div>
